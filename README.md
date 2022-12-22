@@ -36,5 +36,5 @@ and the prints all the information in the log file about this allocation
     gcc *.c leaks_locater/my_malloc.c
 
 -- run your program through the script
-    ```bash
+   ```bash
     ./leaks_locater/script.sh "./NAME_OF_YOUR_PROGRAM ARGUMENTS"
